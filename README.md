@@ -25,4 +25,4 @@ A simple web application that calculates change for a transaction based on the i
 ## How to View
 1. Clone this repository:
    ```bash
-   git clone git@github.com:tylerhuynh287/freeCodeCampProject9.git
+   git clone https://github.com/tylerhuynh287/Cash-Register-App-fCC.git
